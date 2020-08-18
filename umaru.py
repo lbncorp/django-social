@@ -9,7 +9,7 @@ a = '{"name": "Bob", "languages": "English", "subject": "Math"}'
 # and returns dict.
 y = json.loads(a)
 
-print("JSON string = ", y)
+print("JSON string is = ", y)
 print()
 
 
